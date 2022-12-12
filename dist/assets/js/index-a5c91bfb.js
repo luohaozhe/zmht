@@ -1,0 +1,1 @@
+import{u as e}from"./useAuthButtons-334431f0.js";import{d as t,o as s,c as o,h as u}from"./index-702e1de5.js";const n={class:"card content-box"},a=u("span",{class:"text"}," \u6309\u94AE\u6743\u9650\uFF08\u5F85\u5B8C\u5584\uFF09 \u{1F353}\u{1F347}\u{1F348}\u{1F349}",-1),c=[a],_=t({name:"buttonList"}),m=t({..._,setup(r){return e(),(d,i)=>(s(),o("div",n,c))}});export{m as default};

@@ -1,0 +1,1 @@
+import{a1 as s,a2 as i,_ as o}from"./index-702e1de5.js";const a=(t,n)=>{n&&typeof n=="object"&&t.setOption(n);const e=()=>{t&&t.resize()};window.addEventListener("resize",e),s(()=>{window.addEventListener("resize",e)}),i(()=>{window.removeEventListener("resize",e)}),o(()=>{window.removeEventListener("resize",e)})};export{a as u};

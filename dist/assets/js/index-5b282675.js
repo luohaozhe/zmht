@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-361d09b5.js";import{o as t,c as o,h as s}from"./index-702e1de5.js";const c={},n={class:"card content-box"},a=s("span",{class:"text"}," \u83DC\u5355\u6743\u9650\uFF08\u5F85\u5B8C\u5584\uFF09 \u{1F353}\u{1F347}\u{1F348}\u{1F349}",-1),r=[a];function _(d,i){return t(),o("div",n,r)}const m=e(c,[["render",_]]);export{m as default};
