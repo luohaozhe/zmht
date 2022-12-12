@@ -1,0 +1,1 @@
+import{r as u,$ as s,C as r,a0 as a}from"./index-702e1de5.js";const h=()=>{const t=u(""),e=s();t.value=e.name;const o=r(()=>a().authButtonListGet[t.value]||{});return{nowKey:t,BUTTONS:o}};export{h as u};
